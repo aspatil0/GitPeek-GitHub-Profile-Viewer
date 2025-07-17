@@ -6,7 +6,7 @@ A modern, responsive web application built with **React + Vite** that allows use
 
 ## 🚀 Demo
 
-[🔗 Live Preview](https://your-deployment-link.vercel.app)  
+[🔗 Live Preview](gitscapper-adi.vercel.app)  
 _Replace this link with your live site URL if hosted on Vercel, Netlify, etc._
 
 ---
@@ -27,8 +27,7 @@ _Replace this link with your live site URL if hosted on Vercel, Netlify, etc._
 
 - **Frontend**: React, Vite, HTML5, CSS3
 - **API**: GitHub REST API
-- **Hosting**: Vercel / Netlify (Optional)
-- **Icons**: Emoji / GitHub Stats API
+- **Hosting**: Vercel 
 
 ---
 
